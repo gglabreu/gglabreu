@@ -6,11 +6,11 @@
 
 ## About me:
 
-I'm a Front-End Developer :smile:🐱‍👤
-
-I love create new stuff and code for it. I like too much to solve new challenges and grow up doing this.
-
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/nVTa8D8zJUc2A/giphy.gif" width="400"/>
+ 
+#### I'm a front-end developer! :smile:🐱‍👤
+I love create new stuff and code for it. I like too much to solve new challenges and grow up doing this.
+#### I'm a new technology enthusiast, a soccer lover, and an anime/manga stan. 
 
 ## My specialties:
 
