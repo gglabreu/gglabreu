@@ -1,4 +1,5 @@
 <section>
+
 ## Hi, I'm Guilherme Abreu!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gglabreu)](https://github.com/gglabreu)
@@ -35,7 +36,7 @@ I love create new stuff and code for it. I like too much to solve new challenges
 </section>
 <section>
 
- ### Github stats
+### Github stats
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gglabreu&show_icons=true&theme=dark&count_private=true" width="390px"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gglabreu&layout=compact&theme=dark" width="390px" height="155px"/> 
