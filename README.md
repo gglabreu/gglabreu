@@ -1,8 +1,11 @@
-
+<section>
 # Hi, I'm Guilherme Abreu!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gglabreu)](https://github.com/gglabreu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeab)](https://www.linkedin.com/in/guilhermeab)
+
+</section>
+<section>
 
 ## About me:
 
@@ -11,6 +14,9 @@
 #### I'm a front-end developer! :smile:🐱‍👤
 I love create new stuff and code for it. I like too much to solve new challenges and grow up doing this.
 #### I'm a new technology enthusiast, a soccer lover, and an anime/manga stan. 
+
+</section>
+<section>
 
 ## My specialties:
 
@@ -24,9 +30,14 @@ I love create new stuff and code for it. I like too much to solve new challenges
 
 ### Hosting: <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
-
 ## What I don't know, please be pacient and give me a few days 😁
 
-[![gglabreu github stats](https://github-readme-stats.vercel.app/api?username=gglabreu&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gglabreu)
+</section>
+<section>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gglabreu&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gglabreu)
+ ### Github stats
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gglabreu&show_icons=true&theme=dark&count_private=true" width="390px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gglabreu&layout=compact&theme=dark" width="390px" height="155px"/> 
+
+</section>
