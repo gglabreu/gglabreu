@@ -10,6 +10,8 @@ I'm a Front-End Developer :smile:🐱‍👤
 
 I love create new stuff and code for it. I like too much to solve new challenges and grow up doing this.
 
+<img align="right" alt="GIF" src="https://giphy.com/embed/IgLIVXrBcID9cExa6r" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+
 ## My specialties:
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
