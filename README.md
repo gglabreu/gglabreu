@@ -10,7 +10,7 @@ I'm a Front-End Developer :smile:🐱‍👤
 
 I love create new stuff and code for it. I like too much to solve new challenges and grow up doing this.
 
-<iframe align="right" src="https://giphy.com/embed/nVTa8D8zJUc2A" width="480" height="270" frameborder="0" allowfullscreen></iframe>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/nVTa8D8zJUc2A/giphy.gif" width="400"/>
 
 ## My specialties:
 
