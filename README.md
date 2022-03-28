@@ -3,8 +3,8 @@
 ## Hi, I'm Guilherme Abreu!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeab)](https://www.linkedin.com/in/guilhermeab)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gglabreu@hotmail.com)]
-(mailto:gglabreu@hotmail.com)
+![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gglabreu@hotmail.com)
+
 
 </section>
 <section>
