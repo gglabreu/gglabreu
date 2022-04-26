@@ -13,7 +13,7 @@
  
 #### I'm a front-end developer! :smile:🐱‍👤
 I love to create and code new stuff. I like too much solving new challenges and have a grow up doing this.
-#### I'm a new technology enthusiast, a soccer lover, and an anime/manga stan. 
+#### Curious about the most diverse information, I'm a new technology enthusiast, a soccer lover, and an anime/manga stan. 
 
 </section>
 <section>
