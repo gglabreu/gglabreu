@@ -35,3 +35,13 @@ I love to create and code new stuff. I like too much solving new challenges and 
 ## What I don't know, please be pacient and give me a few days 😁
 
 </section>
+
+<section>
+
+ ### Github stats
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gglabreu&layout=compact&theme=vision-friendly-dark" width="390px" height="155px"/> 
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gglabreu&show_icons=true&theme=vision-friendly-dark&count_private=true" width="390px"/>
+ 
+ </section>
