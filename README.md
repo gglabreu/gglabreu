@@ -9,7 +9,7 @@
 
 ## About me:
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/nVTa8D8zJUc2A/giphy.gif" width="230"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/nVTa8D8zJUc2A/giphy.gif" width="250"/>
  
 #### I'm a front-end developer! :smile:
 I love to create and code new stuff. I like too much solving new challenges and have a grow up doing this.
